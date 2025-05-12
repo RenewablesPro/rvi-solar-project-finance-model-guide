@@ -4,7 +4,7 @@ This repository hosts the **Solar Project Finance Model User Guide**—an in-dep
 
 ## 📄 Download the Guide
 
-👉 [Solar Project Finance Model User Guide (PDF)](./Solar Project Finance Model User Guide.pdf)
+👉 [Solar Project Finance Model User Guide (PDF)](./Solar-Project-Finance-Model-User-Guide.pdf)
 
 ## 🔗 Learn More
 
